@@ -1,6 +1,6 @@
 package com.example.pruebajwt.Repositories;
 
-import com.example.pruebajwt.Models.User;
+import com.example.pruebajwt.Entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
